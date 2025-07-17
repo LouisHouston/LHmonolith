@@ -121,7 +121,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # TODO: setup CORS from the React Domain
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://fishing-finder.vercel.app'
+    'https://fishing-finder.vercel.app',
     'https://family-tree.vercel.app'
 ]
 
